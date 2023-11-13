@@ -1,0 +1,19 @@
+.navimage{
+    background: linear-gradient(rgba(0,0,0,0.5),rgb(5, 20, 26)),url(img3.png);
+    /* background: #212e38;
+    background: url(img3.png);
+      */
+    background-size: cover;
+
+}
+.titre{
+   color: rgb(57, 21, 21);
+    text-align: center;
+}
+.titre1{
+    padding: 2%;
+    margin-top: 12%;
+    font-size: 20px;
+    color: rgb(57, 21, 21);
+}
+
